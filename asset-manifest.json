@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dexert-app/static/css/main.409e160e.css",
+    "main.js": "/dexert-app/static/js/main.b2c8376f.js",
+    "static/media/ethereumLogo.png": "/dexert-app/static/media/ethereumLogo.a1b9f99bffeed787d44d.png",
+    "static/media/iceLogo.png": "/dexert-app/static/media/iceLogo.42946f818f294820f878.png",
+    "index.html": "/dexert-app/index.html",
+    "static/media/chevron-down.svg": "/dexert-app/static/media/chevron-down.371c0b7e0fc58ab73972e8cca2f33a34.svg"
+  },
+  "entrypoints": [
+    "static/css/main.409e160e.css",
+    "static/js/main.b2c8376f.js"
+  ]
+}
