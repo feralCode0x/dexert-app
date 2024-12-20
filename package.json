@@ -1,7 +1,7 @@
 {
   "name": "@my-app/dexert",
   "version": "1.0.0",
-  "homepage": "./",
+  "homepage": "https://feralcode0x.github.io/dexert-app",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -64,6 +64,8 @@
     ]
   },
   "scripts": {
+    "predeploy":"yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
